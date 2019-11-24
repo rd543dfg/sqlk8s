@@ -9,4 +9,3 @@ spec:
     - protocol: TCP
       port: 31433
       targetPort: 1433
-  type: LoadBalancer
